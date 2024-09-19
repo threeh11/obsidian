@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сети/Курсовая по сетям.md",
+                "file": "Мечта/Безопасность контейнеров.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сети/Курсовая по сетям.md",
+                "file": "Мечта/Безопасность контейнеров.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сети/Курсовая по сетям.md",
+                "file": "Мечта/Безопасность контейнеров.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сети/Курсовая по сетям.md"
+                "file": "Мечта/Безопасность контейнеров.md"
               }
             }
           }
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -149,7 +149,7 @@
   "active": "b4605567b154b132",
   "lastOpenFiles": [
     "Сети/Курсовая по сетям.md",
-    "Мечта/Без названия.md",
+    "Мечта/Безопасность контейнеров.md",
     "Без названия.md",
     "Фишечки3000",
     "Php",
